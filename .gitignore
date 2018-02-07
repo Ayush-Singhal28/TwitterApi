@@ -21,6 +21,7 @@ project/plugins/project/
 *.tmp
 *.bak
 *.swp
+*.conf
 .worksheet
 
 # IntelliJ Specific
